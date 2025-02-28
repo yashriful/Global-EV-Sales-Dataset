@@ -21,6 +21,9 @@ Despite the initial rapid growth in EV sales, the data and market research sugge
 ![image](https://github.com/user-attachments/assets/aa18a143-2a82-4a84-a224-c0d9d7d395e5)
 
 
+https://public.tableau.com/app/profile/yashriful.raka/viz/GlobalEVsalesData/Dashboard1?publish=yes
+
+
 Global EV Sales by Region (Map View) 🌐
 
 ![image](https://github.com/user-attachments/assets/9f45f598-966c-430e-b0fc-195859453dfd)
