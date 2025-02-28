@@ -30,17 +30,26 @@ A significant portion of electricity used to charge EVs still comes from coal an
 Major automakers like BMW and Mercedes-Benz are phasing out mass EV production, instead pivoting towards hydrogen fuel cell technology, which could offer a cleaner and more sustainable alternative.
 
 📍 Dashboard Preview
-🔗 Explore the Full Dashboard:
+🔗 (https://public.tableau.com/app/profile/yashriful.raka/viz/GlobalEVsalesData/Dashboard1?publish=yes)
 👉 Global EV Sales Analysis Dashboard (Tableau Public)
 
+![image](https://github.com/user-attachments/assets/ae891037-f6ce-4091-ae37-e6251f6b76e1)
+
+
 Global EV Sales by Region (Map View) 🌐
-(Insert image here if publishing on GitHub)
+
+![image](https://github.com/user-attachments/assets/7eedae58-790d-4417-adc1-13307844f3a2)
+
 
 Sales Volume by Vehicle Type (Bar Chart) 🚙
-(Insert image here if publishing on GitHub)
+
+![image](https://github.com/user-attachments/assets/bf23f476-f2a5-4381-91ce-cf66eaff5fc1)
+
 
 EV Sales Trend from 2010 to 2035 (Line Chart) 📈
-(Insert image here if publishing on GitHub)
+
+![image](https://github.com/user-attachments/assets/737ce097-6325-4b89-9e85-e0c914ed69b1)
+
 
 🔬 Key Insights from the Data
 Factor	Impact Description
