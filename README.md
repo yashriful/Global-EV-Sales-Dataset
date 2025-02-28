@@ -36,18 +36,13 @@ EV Sales Trend from 2010 to 2035 (Line Chart) 📈
 ![image](https://github.com/user-attachments/assets/a86c1284-795e-436a-bcf2-d3dc8cbd06ad)
 
 
-📂 Files in this Repository
-File Name	Description
-Global_EV_Sales_Data.xlsx	Raw data of EV sales across regions from 2010 to 2035
-EV_Sales_Analysis_Dashboard.twbx	Tableau workbook containing the interactive dashboard
-README.md	This project documentation
-image.png	Dashboard preview screenshot
 🔬 Key Insights from the Data
 Factor	Impact
 🚀 EV Adoption Surge	Strong from 2010 to 2022
 📉 Post-2023 Decline	Declines due to cost and infrastructure challenges
 🌎 Regional Dominance	China leads in EV adoption, followed by Europe
 🔮 Future Outlook	Uncertain with automakers shifting to Hydrogen technology
+
 🛠️ Tech Stack
 Tool	Purpose
 Excel 📊	Data Cleaning & Processing
@@ -72,8 +67,7 @@ Analyze the potential shift towards hydrogen-powered vehicles.
 📬 Contact
 For further discussion, collaboration, or feedback, feel free to reach out:
 
-📧 Email: your.email@example.com
-💼 LinkedIn: Your LinkedIn
-🐦 Twitter: @YourTwitterHandle
+📧 Email: raka248@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/yashriful-islam-raka-3b118511/
 
 ⭐️ If you find this project insightful, don’t forget to give it a ⭐️ on GitHub!
