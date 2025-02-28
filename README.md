@@ -35,7 +35,8 @@ Major automakers like BMW and Mercedes-Benz are phasing out mass EV production, 
 
 👉 Global EV Sales Analysis Dashboard (Tableau Public)
 
-![image](https://github.com/user-attachments/assets/ae891037-f6ce-4091-ae37-e6251f6b76e1)
+![image](https://github.com/user-attachments/assets/094238f7-8d1c-4f99-8ec7-9385320b0881)
+
 
 
 Global EV Sales by Region (Map View) 🌐
@@ -45,7 +46,9 @@ Global EV Sales by Region (Map View) 🌐
 
 Sales Volume by Vehicle Type (Bar Chart) 🚙
 
-![image](https://github.com/user-attachments/assets/bf23f476-f2a5-4381-91ce-cf66eaff5fc1)
+
+![image](https://github.com/user-attachments/assets/67fc54a9-0ce5-46c8-869d-667483c039bb)
+
 
 
 EV Sales Trend from 2010 to 2035 (Line Chart) 📈
