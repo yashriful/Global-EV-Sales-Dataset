@@ -89,6 +89,6 @@ Explore:
 For any questions, collaboration proposals, or feedback, feel free to reach out:
 
 📧 Email: raka248@gmail.com
-💼 LinkedIn: Yashriful Islam Raka
+💼 LinkedIn: [Yashriful Islam Raka](https://www.linkedin.com/in/yashriful-islam-raka-3b118511/)
 
 ⭐️ If you find this project insightful, please give it a ⭐️ on GitHub!
