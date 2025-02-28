@@ -13,6 +13,9 @@ The Tableau Dashboard offers interactive visual insights into the evolving EV ma
 💾 Kaggle - Global Electric Vehicle Market Dataset
 The dataset has been processed, cleaned, and visualized using Excel and Tableau Public.
 
+
+![image](https://github.com/user-attachments/assets/8f54111e-97b5-44a8-9a86-4837085510c7)
+
 📊 Key Findings — Why EV Sales are Declining
 Despite the initial rapid growth in EV sales, both data trends and market research suggest a slowing global adoption rate. Several critical factors are contributing to this:
 
